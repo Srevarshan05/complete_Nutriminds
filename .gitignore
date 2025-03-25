@@ -4,15 +4,15 @@ __pycache__/
 *.pyd
 *.dll
 *.so
+*.db
+*.csv
+*.json
 Lib/
 site-packages/
 test/
 static/uploads/*
 venv/
 env/
-# Ignore large binary files
-*.dll
-*.pyd
 
 # Ignore specific large folders or files
 test/Lib/site-packages/paddle/
